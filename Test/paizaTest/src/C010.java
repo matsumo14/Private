@@ -7,7 +7,6 @@ public class C010 {
 	 * @param args
 	 */
 	public static void main(String[] args) throws Exception {
-		// TODO 自動生成されたメソッド・スタブ
 		// 自分の得意な言語で
         // Let's チャレンジ！！
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
